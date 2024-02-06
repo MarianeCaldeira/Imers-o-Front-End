@@ -1,0 +1,17 @@
+body {
+    background-color: purple;
+}
+
+h1 {
+    color: indigo;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 100;
+}
+
+
