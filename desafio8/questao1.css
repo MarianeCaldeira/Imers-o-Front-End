@@ -1,0 +1,21 @@
+body {
+    background-color: #7429D9;
+}
+
+h1 {
+    color: #D929BE;
+}
+
+h2 {
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+h3 {
+    background-color: #FF5733; /* Laranja */
+    color: #00FF00; /* Verde */
+}
+
+p {
+    color: #AE29D9;
+}
